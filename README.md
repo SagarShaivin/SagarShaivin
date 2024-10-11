@@ -1,4 +1,4 @@
-Hi there, I'm Shaivin Sagar! 👋
+- Hi there, I'm Shaivin Sagar! 👋
 I'm a passionate Junior DevOps Engineer currently exploring the intricacies of cloud infrastructure, automation, and deployment processes.
 
 🚀 About Me:
