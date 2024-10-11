@@ -3,7 +3,7 @@
 
 ### 🚀 About Me:
 - 🔭 I’m currently working on automating deployments and infrastructure scaling using AWS, GCP, Docker, Terraform, and GitHub Actions.
--🌱 I’m expanding my skillset in Cloud Computing (AWS/GCP/Azure), CI/CD, and Infrastructure as Code.
+- 🌱 I’m expanding my skillset in Cloud Computing (AWS/GCP/Azure), CI/CD, and Infrastructure as Code.
 - 👯 I’m looking to collaborate on exciting DevOps and cloud-native projects.
 - 💬 Ask me about Cloud Infrastructure, CI/CD Pipelines, or DevOps best practices.
 - 📫 How to reach me: Feel free to drop me an email at sagarshaivin07@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/shaivin-sagar-devops/).
