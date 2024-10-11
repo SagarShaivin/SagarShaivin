@@ -1,5 +1,5 @@
 # Hi there, I'm Shaivin Sagar! 👋
-I'm a passionate Junior DevOps Engineer currently exploring the intricacies of cloud infrastructure, automation, and deployment processes.
+## I'm a passionate Junior DevOps Engineer currently exploring the intricacies of cloud infrastructure, automation, and deployment processes.
 
 🚀 About Me:
 🔭 I’m currently working on automating deployments and infrastructure scaling using GCP, Terraform, and GitHub Actions.
