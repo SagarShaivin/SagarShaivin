@@ -1,7 +1,7 @@
 # Hi there, I'm Shaivin Sagar! 👋
 ## I'm a passionate Junior DevOps Engineer currently exploring the intricacies of cloud infrastructure, automation, and deployment processes.
 
-![AWS](https://www.credly.com/badges/91ed2d91-b567-4d51-a974-4834fe985902/public_url)
+![RHCS_Badge](https://github.com/SagarShaivin/SagarShaivin/blob/main/red-hat-certified-system-administrator-rhcsa.png)
 
 ### 🚀 About Me:
 - 🔭 I’m currently working on automating deployments and infrastructure scaling using AWS, GCP, Docker, Terraform, and GitHub Actions.
