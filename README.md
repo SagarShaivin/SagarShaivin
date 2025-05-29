@@ -1,5 +1,5 @@
 # Hi there, I'm Shaivin Sagar! 👋
-## I'm a passionate Junior DevOps Engineer currently exploring the intricacies of cloud infrastructure, automation, and deployment processes.
+## I'm a passionate DevOps Engineer currently exploring the intricacies of cloud infrastructure, automation, and deployment processes.
 
 ![AWS-0](https://github.com/SagarShaivin/SagarShaivin/blob/main/aws-knowledge-cloud-essentials%20(2).png) ![AWS-1](https://github.com/SagarShaivin/SagarShaivin/blob/main/aws-partner-technical-accredited%20(1).png) ![RHCS_Badge](https://github.com/SagarShaivin/SagarShaivin/blob/main/red-hat-certified-system-administrator-rhcsa.png)
 
